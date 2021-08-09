@@ -1,0 +1,16 @@
+以下内容都在g2服务器中
+
+cs_2000个数据0.8s窗长0.1s窗移的数据地址
+nieyuting/nieyt/work/lang-recognition/lg_segment/cs_2000_0.8_0.1.tar.gz
+
+cs_2000个数据的list地址
+/home/nieyuting/nieyt/work/lang-recognition/lg_segment/cs_2000.list
+
+cs_2000个数据的ctm地址
+/home/nieyuting/nieyt/work/lang-recognition/lg_segment/cs_2000_ctm
+
+cs_2000_label(名称 语种转换：时间点)
+/home/nieyuting/nieyt/work/lang-recognition/lg_segment/cs_2000_label
+
+cs_2000个数据0.8s窗长0.1s窗移的数据的音素后验概率特征地址
+/home/nieyuting/nieyt/work/lang-recognition/multilingual-bottleneck-features-master/feature
