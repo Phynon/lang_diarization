@@ -13,4 +13,4 @@ cs_2000_label(名称 语种转换：时间点)
 /home/nieyuting/nieyt/work/lang-recognition/lg_segment/cs_2000_label
 
 cs_2000个数据0.8s窗长0.1s窗移的数据的音素后验概率特征地址
-/home/nieyuting/nieyt/work/lang-recognition/multilingual-bottleneck-features-master/feature
+/home/nieyuting/nieyt/work/lang-recognition/multilingual-bottleneck-features-master/feature/cs_2000_0.8_0.1_feature
